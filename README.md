@@ -1,5 +1,4 @@
 # **Halo 👋  , Saya Fauzi!**
-___
 ##### Mobile & Web Developer
 
 
