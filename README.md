@@ -1,5 +1,5 @@
-<p align="center"># **Halo 👋  , Saya Fauzi!**</p>
-<p align="center">##### Mobile & Web Developer</p>
+# **<p align="center">Halo 👋  , Saya Fauzi!</p>**
+##### <p align="center">Mobile & Web Developer</p>
 
 
 <!--
