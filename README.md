@@ -1,4 +1,4 @@
-# **Halo 👋  , Saya Fauzi!**
+# **Halo 👋  , <p align="text-center">Saya Fauzi!</p>**
 ##### Mobile & Web Developer
 
 
