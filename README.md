@@ -1,7 +1,6 @@
-# **Halo 👋  , Saya Fauzi!**
-##### Mobile & Web Developer
+<p align="center"># **Halo 👋  , Saya Fauzi!**</p>
+<p align="center">##### Mobile & Web Developer</p>
 
-<p align="center">Hi</p>
 
 <!--
 **fauzymaulana/fauzymaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
