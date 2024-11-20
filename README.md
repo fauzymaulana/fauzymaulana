@@ -1,9 +1,20 @@
-# **<p align="center">Halo 👋  , Saya Fauzi!</p>**
-##### <p align="center">Mobile & Web Developer</p>
+# **<p align="center">Hi 👋  , I'm Fauzi!</p>**
+##### <p align="center">I am a Mobile(Kotlin, Swift, Flutter) & Web Developer</p>
 
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fauzymaulana&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzymaulana&layout=compact&theme=radical)
 
 <!--
 **fauzymaulana/fauzymaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fauzymaulana&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzymaulana&layout=compact&theme=radical)
 
 Here are some ideas to get you started:
 
